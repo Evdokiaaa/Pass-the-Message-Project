@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    display: block;
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.someshit{
+    width: 50%;
+    margin: 0 auto;
+}
+
+button{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+label{
+    font-size: 20px;
+    display: inline-block;
+    width: 70%;
+    text-align: right;
+    margin-top: 15px;
+}
+
+.input{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 15px;
+    margin: 10px auto;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
